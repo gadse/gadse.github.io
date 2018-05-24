@@ -1,7 +1,3 @@
----
-title: Loot, Love, and Lard 
----
-
 # D&D: The Lost Mine of Phandelver
 - Characters: Ara & Corri & Derondor & Jorgrim & Madislak & Sylnan
 - DM: Peter
