@@ -10,9 +10,9 @@
 
 ## Noteworthy Stuff
 - **Party's Current Location:** At the entrance of the Wave Echo Cave
-- **Last session in one sentence:** After collecting gundren and slaying the revenge-seeking dragon Venomfang, our honorable heroes and a dwarf started exploring the legendary Wave-Echo-Cave.
+- **Last session in one sentence:** After collecting Gundren and slaying the revenge-seeking dragon Venomfang, our honorable adventurers started exploring the legendary Wave-Echo-Cave.
 
 # D&D: Random Filler One-Shot
 - **Date:** 2018-05-26 14-00
-- **Location:** K4-Bar
+- **Location:** Chez S.K.
 - **DM:** N.T.
