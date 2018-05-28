@@ -9,7 +9,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 
 ### Next Regular Session
-- **Date:** Currently discussed: 2018-06-01 and 2018-06-15
+- **Date:** 2018-07-15 14-00
 - **Location:** TBD
 - **Food:** ALL THE FOODZ!
 
