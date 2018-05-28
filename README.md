@@ -9,15 +9,15 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 
 ### Next Regular Session
-- **Date:** TBD - please
+- **Date:** Currently discussed: 2018-06-01 and 2018-06-15
 - **Location:** TBD
-- **Food:** TBD
+- **Food:** ALL THE FOODZ!
 
 ### Noteworthy Stuff
 - **Party's Current Location:** At the entrance of the Wave Echo Cave
 - **Last session in one sentence:** After collecting Gundren and slaying the revenge-seeking dragon Venomfang, our honorable adventurers started exploring the legendary Wave-Echo-Cave.
 
 # D&D: Random Filler One-Shot
-- **Date:** 2018-05-26 14-00
-- **Location:** Chez S.K.
-- **DM:** N.T.
+- **Date:** None scheduled.
+- **Location:**
+- **DM:**
