@@ -8,11 +8,13 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - **DM**: Peter
 
 
-### Next Regular Sessions
+### Regular Campaign Sessions
+#### Next
 - **Date:** 2018-06-07 19-00-ish
 - **Location:** TBD
 - **Food:** yummy
 
+#### Probably Last Session
 - **Date:** 2018-07-15 12-00-ish
 - **Location:** TBD
 - **Food:** ALL THE FOODZ!
