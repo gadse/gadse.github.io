@@ -8,8 +8,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - **DM**: Peter
 
 
-### Next Regular Session
-- **Date:** 2018-07-15 14-00
+### Next Regular Sessions
+- **Date:** 2018-06-07 19-00-ish
+- **Location:** TBD
+- **Food:** yummy
+
+- **Date:** 2018-07-15 12-00-ish
 - **Location:** TBD
 - **Food:** ALL THE FOODZ!
 
