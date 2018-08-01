@@ -35,4 +35,5 @@ To be established.
 - **GM**: Peter
 - **Sessions**: 15-ish
 - **Duration**: About 15 Months
+
 Our heroes defeated the Black Spider, saved the Rockseeker brothers, and killed a young Green Dragon along the way. Woop-woop! Oh, and they nearly disabled the forge of spells for good. Well, it would have been out of use for a very long time, anyway. :P
