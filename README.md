@@ -26,6 +26,9 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - Battletech
 - Tabaxi-Party agains the deadly floofballs of death
 
+# Code of Conduct
+To be established.
+
 # Finished Campaigns
 ## D&D: The Lost Mine of Phandelver
 - **Characters**: Ara & Corri & Derondor & Jorgrim & Madislak & Sylnan
