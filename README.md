@@ -13,7 +13,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - **Party's Current Location:** Yartar, Beldar's Rest
 - **Current In-Game Date:** 2nd Flamerule, 1491 DR
 - **Last session in one sentence:** After beeing partially successful in defending Triboar from a Fire Giant attack,
-out heroes set off for Yartar, where they met up with Zindra Winterbow and Sevembra Tumbleleaf.
+our heroes set off for Yartar, where they met up with Zindra Winterbow and Sevembra Tumbleleaf.
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
