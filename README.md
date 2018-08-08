@@ -6,16 +6,18 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 2018-08-05 14-00
-- **Location:** TBD
-- **Food:** Something suitable for nurturing our new GM
-- **Notes:** Session Zero
-- **Party's Current Location:** -
-- **Last session in one sentence:** -
+- **Next Date:** 2018-08-11 14-00
+- **Location:** K3-Bar
+- **Food:** There is going to be some
+- **Notes:** -
+- **Party's Current Location:** Yartar, Beldar's Rest
+- **Current In-Game Date:** 2nd Flamerule, 1491 DR
+- **Last session in one sentence:** After beeing partially successful in defending Triboar from a Fire Giant attack,
+out heroes set off for Yartar, where they met up with Zindra Winterbow and Sevembra Tumbleleaf.
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
-- **Characters**: Sorion & Tarhun & ??? & ???
+- **Characters**: Antares & Sorion & Tarhun & Vorus
 - **GM**: Nikolas
 
 ## Fallout: Eine Sehr Vorlaute Kampagne
