@@ -10,7 +10,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - **Location:** K3-Bar
 - **Food:** There is going to be some
 - **Notes:** -
-- **Party's Current Location:** Yartar, Beldar's Rest
+- **Party's Current Location:** Yartar, Beldabar's Rest
 - **Current In-Game Date:** 2nd Flamerule, 1491 DR
 - **Last session in one sentence:** After beeing partially successful in defending Triboar from a Fire Giant attack,
 our heroes set off for Yartar, where they met up with Zindra Winterbow and Sevembra Tumbleleaf.
