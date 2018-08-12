@@ -6,14 +6,13 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 2018-08-11 14-00
-- **Location:** K3-Bar
-- **Food:** There is going to be some
-- **Notes:** -
-- **Party's Current Location:** Yartar, Beldabar's Rest
-- **Current In-Game Date:** 2nd Flamerule, 1491 DR
-- **Last session in one sentence:** After beeing partially successful in defending Triboar from a Fire Giant attack,
-our heroes set off for Yartar, where they met up with Zindra Winterbow and Sevembra Tumbleleaf.
+- **Next Date:** 2018-08-25 14-00
+- **Location:** ???
+- **Food:** Maybe
+- **Notes:** Your Characters are Level 6 now! Don't forget to level them up. 
+- **Party's Current Location:** Yartar
+- **Current In-Game Date:** 11th Flamerule, 1491 DR
+- **Last session in one sentence:** Our heroes set off to Flint Rock, where they found the ancient Giant Artifact Zindra and Sevembra were searching for. After succesfully deceiving the Uthgar of the Elk Tribe and defeating a nearby pack of Ogres (their leader having developed some minor magical abilities and bearing the mark of House Noquar), our heroes managed to bring the artifact back to Yartar. 
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
