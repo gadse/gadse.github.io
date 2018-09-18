@@ -6,13 +6,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 2018-08-25 14-00
-- **Location:** ???
-- **Food:** Maybe
-- **Notes:** Your Characters are Level 6 now! Don't forget to level them up. 
-- **Party's Current Location:** Yartar
-- **Current In-Game Date:** 11th Flamerule, 1491 DR
-- **Last session in one sentence:** Our heroes set off to Flint Rock, where they found the ancient Giant Artifact Zindra and Sevembra were searching for. After succesfully deceiving the Uthgar of the Elk Tribe and defeating a nearby pack of Ogres (their leader having developed some minor magical abilities and bearing the mark of House Noquar), our heroes managed to bring the artifact back to Yartar. 
+- **Next Date:** TBD
+- **Location:** TBD
+- **Food:** Probably
+- **Party's Current Location:** Yartar, in front of the Harper's Mansion 
+- **Current In-Game Date:** 25th Flamerule, 1491 DR
+- **Last session in "one" sentence:** After talking about their future plans with Krowen Valharrow, our heroes decided to return to Yartar in order to do some shopping, an to visit the Wink & Kiss tavern, where they wanted to cash in the "morally flexible" favor granted by Tamalin Zoar. While Tarhun and Sorion talked to Cio Yu (the local leader of Yartars thieves's guild), Vorus decided to scout ahead, and in the end got seperated from the party. Tarhun tried to set up a distraction, triggering a fireball trap in the process. Despite angering a significant part of the thieve's guild, Tarhun and Sorion made it out of the tavern alive. After defeating both two flying swords and two suits of animated armor, Vorus decided to loot the guilds treasury before making his way back out. 
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
