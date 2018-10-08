@@ -6,8 +6,8 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** TBD
-- **Location:** TBD
+- **Next Date:** 16.10.2018
+- **Location:** K3-Bar
 - **Food:** Probably
 - **Party's Current Location:** Yartar, in front of the Harper's Mansion 
 - **Current In-Game Date:** 25th Flamerule, 1491 DR
