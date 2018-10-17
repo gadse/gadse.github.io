@@ -11,7 +11,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - **Food:** Yup
 - **Party's Current Location:** Crags, between Mirabar and Xantharl's Keep 
 - **Current In-Game Date:** 28th Flamerule, 1491 DR
-- **Last session in "one" sentence:** After leaving Yartar in a hurry and teleporting to Mirabar, our heroes deciced to follow the hint they received by Darz Helgar in Triboar. They began their journey to Xantharl's Keep, where they want to search for Worvil Forkbeard (a.k.a. "The Weevil").
+- **Last session in "one" sentence:** After leaving Yartar in a hurry and teleporting to Mirabar, our heroes deciced to follow the hint they received from Darz Helgar in Triboar. They began their journey to Xantharl's Keep, where they want to search for Worvil Forkbeard (a.k.a. "The Weevil").
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
