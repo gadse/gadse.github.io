@@ -6,12 +6,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 16.10.2018
+- **Next Date:** 27.10.2018, 13:00
 - **Location:** K3-Bar
-- **Food:** Probably
-- **Party's Current Location:** Yartar, in front of the Harper's Mansion 
-- **Current In-Game Date:** 25th Flamerule, 1491 DR
-- **Last session in "one" sentence:** After talking about their future plans with Krowen Valharrow, our heroes decided to return to Yartar in order to do some shopping, an to visit the Wink & Kiss tavern, where they wanted to cash in the "morally flexible" favor granted by Tamalin Zoar. While Tarhun and Sorion talked to Cio Yu (the local leader of Yartars thieves's guild), Vorus decided to scout ahead, and in the end got seperated from the party. Tarhun tried to set up a distraction, triggering a fireball trap in the process. Despite angering a significant part of the thieve's guild, Tarhun and Sorion made it out of the tavern alive. After defeating both two flying swords and two suits of animated armor, Vorus decided to loot the guilds treasury before making his way back out. 
+- **Food:** Yup
+- **Party's Current Location:** Crags, between Mirabar and Xantharl's Keep 
+- **Current In-Game Date:** 28th Flamerule, 1491 DR
+- **Last session in "one" sentence:** After leaving Yartar in a hurry and teleporting to Mirabar, our heroes deciced to follow the hint they received by Darz Helgar in Triboar. They began their journey to Xantharl's Keep, where they want to search for Worvil Forkbeard (a.k.a. "The Weevil").
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
