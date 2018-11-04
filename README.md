@@ -6,12 +6,13 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 27.10.2018, 13:00
+- **Next Date:** 26.11.2018, 18:30
 - **Location:** K3-Bar
-- **Food:** Yup
-- **Party's Current Location:** Crags, between Mirabar and Xantharl's Keep 
-- **Current In-Game Date:** 28th Flamerule, 1491 DR
-- **Last session in "one" sentence:** After leaving Yartar in a hurry and teleporting to Mirabar, our heroes deciced to follow the hint they received from Darz Helgar in Triboar. They began their journey to Xantharl's Keep, where they want to search for Worvil Forkbeard (a.k.a. "The Weevil").
+- **Food:** Lasagna? 
+- **Party's Current Location:** Long Road, near Xantharl's Keep 
+- **Current In-Game Date:** 29th Flamerule, 1491 DR
+- **Last session in "one" sentence:** Our heroes reached Xantharl's Keep, where they tried to gather more information about
+the whereabouts of the Weevil. After helping to defend the city againts an army of Hobgoblins ,Ogres and a Frost Giant, they found out that a dwarf named "Larg" went missing during the attack. They investigated the city walls, where they found marks of intrusion and a little bit of bugbear-fur. They deciced to follow the intruders. 
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
