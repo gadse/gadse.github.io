@@ -6,7 +6,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 26.11.2018, 18:30
+- **Next Date:** 06.11.2018, 18:30
 - **Location:** K3-Bar
 - **Food:** Lasagna? 
 - **Party's Current Location:** Long Road, near Xantharl's Keep 
