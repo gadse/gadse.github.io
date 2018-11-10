@@ -6,13 +6,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 ## SKT
-- **Next Date:** 06.11.2018, 18:30
+- **Next Date:** 13.11.2018, 18:30
 - **Location:** K3-Bar
-- **Food:** Lasagna? 
-- **Party's Current Location:** Long Road, near Xantharl's Keep 
-- **Current In-Game Date:** 29th Flamerule, 1491 DR
-- **Last session in "one" sentence:** Our heroes reached Xantharl's Keep, where they tried to gather more information about
-the whereabouts of the Weevil. After helping to defend the city againts an army of Hobgoblins ,Ogres and a Frost Giant, they found out that a dwarf named "Larg" went missing during the attack. They investigated the city walls, where they found marks of intrusion and a little bit of bugbear-fur. They deciced to follow the intruders. 
+- **Food:** Ramen? 
+- **Party's Current Location:** Lurkwood
+- **Current In-Game Date:** 30th Flamerule, 1491 DR
+- **Last session in "one" sentence:**  After succesfully tracking the intruders of Xantharls's Keep back to the Lurkwoods, our heroes met a "friendly old women" who later turned out to be a hobglin who was, according to her, banished from the warcamp. After interrogating her about the warcamp, she led them to a small wooden hut within the lurkwoods where they could rest during the night (she was killed during the night, when she tried to fly).
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
