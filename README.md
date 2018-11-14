@@ -5,13 +5,18 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 
 # Regular Campaign Sessions
-## SKT
-- **Next Date:** 13.11.2018, 18:30
+
+## Fallout
+- **Next Date:** 20.11.2018, Time TBD
 - **Location:** K3-Bar
-- **Food:** Ramen? 
+
+## SKT
+- **Next Date:** TBD
+- **Location:** TBD
+- **Food:** TBD
 - **Party's Current Location:** Lurkwood
-- **Current In-Game Date:** 30th Flamerule, 1491 DR
-- **Last session in "one" sentence:**  After succesfully tracking the intruders of Xantharls's Keep back to the Lurkwoods, our heroes met a "friendly old women" who later turned out to be a hobglin who was, according to her, banished from the warcamp. After interrogating her about the warcamp, she led them to a small wooden hut within the lurkwoods where they could rest during the night (she was killed during the night, when she tried to fly).
+- **Current In-Game Date:** 30th Flamerule (Night), 1491 DR 
+- **Last session in "one" sentence:** Our heroes set an ambush on a party of hobgoblins, . The Dwarf they had with them turned out to be a disguides hobgoblin, and a battle between our heroes and the hobgoblins ensued. They managed to intimidate the single surviving hobgoblin into "sharing" his knowledge, and found out that the hobgoblins they just fought were a distraction. Supposedly, two hobgoblins disguised as humans are travelling to mirabar (taking a more direct path through the forest), where they are supposed to turn in Worvil Forkbeard for 5000 Gold Pieces. 
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
