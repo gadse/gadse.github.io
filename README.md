@@ -7,7 +7,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## Fallout
-- **Next Date:** 20.11.2018, Time TBD
+- **Next Date:** 20.11.2018, 18.30
 - **Location:** K3-Bar
 
 ## SKT
