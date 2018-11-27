@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## Fallout
-- **Next Date:** 20.11.2018, 18.30
-- **Location:** K3-Bar
-
-## SKT
 - **Next Date:** TBD
 - **Location:** TBD
+
+## SKT
+- **Next Date:** 04.12.2018, 18.30
+- **Location:** K3-Bar
 - **Food:** TBD
 - **Party's Current Location:** Lurkwood
 - **Current In-Game Date:** 30th Flamerule (Night), 1491 DR 
@@ -24,7 +24,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 - **GM**: Nikolas
 
 ## Fallout: Eine Sehr Vorlaute Kampagne
-- **Characters**: ??? & ??? & ??? & ??? & ???
+- **Characters**: Jon & Lance & Magnus
 - **GM**: Simone
 
 # One-Shot Wishlist
