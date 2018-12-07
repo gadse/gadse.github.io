@@ -6,17 +6,18 @@ This page is intended for summarizing and looking up stuff. For questions like "
 
 # Regular Campaign Sessions
 
+## SKT
+- **Next Session:** 20.12.2018, 20.30
+- **Location:** K3-Bar
+- **Food:** TBD
+- **Party's Current Location:** Mirabar
+- **Current In-Game Date:** 1st Eleasis, 1491 DR 
+- **Last session in one sentence:** Our heroes managed to turn in Worvil Forkbeard for the promised 5000 Gold, celebrated Midsummer in Mirabar and made plans on where to go next. 
+
 ## Fallout
 - **Next Date:** TBD
 - **Location:** TBD
 
-## SKT
-- **Next Date:** 04.12.2018, 18.30
-- **Location:** K3-Bar
-- **Food:** TBD
-- **Party's Current Location:** Lurkwood
-- **Current In-Game Date:** 30th Flamerule (Night), 1491 DR 
-- **Last session in "one" sentence:** Our heroes set an ambush on a party of hobgoblins, . The Dwarf they had with them turned out to be a disguides hobgoblin, and a battle between our heroes and the hobgoblins ensued. They managed to intimidate the single surviving hobgoblin into "sharing" his knowledge, and found out that the hobgoblins they just fought were a distraction. Supposedly, two hobgoblins disguised as humans are travelling to mirabar (taking a more direct path through the forest), where they are supposed to turn in Worvil Forkbeard for 5000 Gold Pieces. 
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
