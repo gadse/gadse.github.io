@@ -7,7 +7,7 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 13.01.2019
+- **Next Session:** 13.01.2019, 14.00
 - **Location:** K4-Bar
 - **Food:** Probably K2
 - **Party's Current Location:** Bryn Shander
