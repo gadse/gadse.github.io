@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 20.12.2018, 20.30
-- **Location:** K3-Bar
-- **Food:** TBD
-- **Party's Current Location:** Mirabar
-- **Current In-Game Date:** 1st Eleasis, 1491 DR 
-- **Last session in one sentence:** Our heroes managed to turn in Worvil Forkbeard for the promised 5000 Gold, celebrated Midsummer in Mirabar and made plans on where to go next. 
+- **Next Session:** 13.01.2019
+- **Location:** K4-Bar
+- **Food:** Probably K2
+- **Party's Current Location:** Bryn Shander
+- **Current In-Game Date:** 15th Eleasis, 1491 DR 
+- **Last session in "one" sentence:** Our heroes tried out some of their new magic Items and talked to speaker Duvessa Shane about the recent giant attacks. In the evening, Sorion felt the magic of a failed scry spell inside of him. 
 
 ## Fallout
 - **Next Date:** TBD
