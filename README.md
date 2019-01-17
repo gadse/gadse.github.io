@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 15.01.2019, 18.30
-- **Location:** K3-Barlager
-- **Food:** Yeah, sure. 
-- **Party's Current Location:** Everlund, Moongleam Tower 
-- **Current In-Game Date:** 22nd Eleasis, 1491 DR 
-- **Last session in "one" sentence:** Our heroes attended a meeting in Bryn Shander where Harshang asked them to accompany him on his journey to the Eye of the Allfather, an ancient giant Temple where he wants to find out more about what the Giant Lords are up to. The party then (after staying in the City for to addidional days so Sorion could pick up his now reinforced spellbook) teleported to Yartar, where Tarhun was able to reclaim his staff. In the evening, Antares managed to aquire information on the whereabouts of Harthos Zymorvens stolen Greataxe. However, someone (or something ^^) tried to follow them on the way the back to the Harper's Mansion. They managed to ~flee~ retreat, and decided to continue their journey to Everlund.  
+- **Next Session:** 22.01.2019, 18.30
+- **Location:** K3-Bar
+- **Food:** All of it. 
+- **Party's Current Location:** Blackford Road, near Mirabar 
+- **Current In-Game Date:** 29th Eleasis, 1491 DR 
+- **Last session in "one" sentence:** Our heroes spent some downtime in Everlund and afterwards went back to Luskan, where Sorion got some personal information from bregan d'aerthe. They then continued their journey to Mirabar, where they want to meet up with Harshnag von the 30th of Eleasis. 
 
 ## Fallout
 - **Next Date:** TBD
