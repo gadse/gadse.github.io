@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 22.01.2019, 18.30
-- **Location:** K3-Bar
+- **Next Session:** 29.01.2019, 18.30
+- **Location:** K4-Bar
 - **Food:** All of it. 
-- **Party's Current Location:** Blackford Road, near Mirabar 
-- **Current In-Game Date:** 29th Eleasis, 1491 DR 
-- **Last session in "one" sentence:** Our heroes spent some downtime in Everlund and afterwards went back to Luskan, where Sorion got some personal information from bregan d'aerthe. They then continued their journey to Mirabar, where they want to meet up with Harshnag von the 30th of Eleasis. 
+- **Party's Current Location:** Northeast of Mirabar, near the Mirar River
+- **Current In-Game Date:** 30th Eleasis, 1491 DR 
+- **Last session in one sentence:** Our heroes began the journey to the Eye of the Allfather. 
 
 ## Fallout
 - **Next Date:** TBD
