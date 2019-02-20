@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 29.01.2019, 18.30
-- **Location:** K4-Bar
-- **Food:** All of it. 
-- **Party's Current Location:** Northeast of Mirabar, near the Mirar River
-- **Current In-Game Date:** 30th Eleasis, 1491 DR 
-- **Last session in one sentence:** Our heroes began the journey to the Eye of the Allfather. 
+- **Next Session:** 03.03.2019, 14.00
+- **Location:** EUFF
+- **Food:** Yes 
+- **Party's Current Location:** Spine of the world, near the Eye of the Allfather.
+- **Current In-Game Date:**  
+- **Last session in "one" sentence:** Our heroes explored the Eye of the Allfather, fought against a Remorhaz, and made their way to the oracle in the inner sanctum. After asking some questions, the party was attacked by a blue dragon. Harshnag sacrificed himself, giving the party just enough time to flee.
 
 ## Fallout
 - **Next Date:** TBD
