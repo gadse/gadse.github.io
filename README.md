@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 03.03.2019, 14.00
-- **Location:** EUFF
+- **Next Session:** 17.03.2019, 14.00
+- **Location:** See Telegram
 - **Food:** Yes 
-- **Party's Current Location:** Spine of the world, near the Eye of the Allfather.
+- **Party's Current Location:** Grisma
 - **Current In-Game Date:**  
-- **Last session in "one" sentence:** Our heroes explored the Eye of the Allfather, fought against a Remorhaz, and made their way to the oracle in the inner sanctum. After asking some questions, the party was attacked by a blue dragon. Harshnag sacrificed himself, giving the party just enough time to flee.
+- **Last session in "one" sentence:** After escorting Noori back to the Great Worm Cavern, they returned to the eye of the allfather in order to gather proof for Wormblods death. Thanks to the creature living inside the Uthgards Altar, they found out that Antares son is still alive. 
 
 ## Fallout
 - **Next Date:** TBD
