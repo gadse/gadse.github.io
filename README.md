@@ -7,12 +7,12 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 17.03.2019, 14.00
-- **Location:** See Telegram
+- **Next Session:** 19.03.2019, 18.30
+- **Location:** K4-Bar
 - **Food:** Yes 
-- **Party's Current Location:** Grisma
-- **Current In-Game Date:**  
-- **Last session in "one" sentence:** After escorting Noori back to the Great Worm Cavern, they returned to the eye of the allfather in order to gather proof for Wormblods death. Thanks to the creature living inside the Uthgards Altar, they found out that Antares son is still alive. 
+- **Party's Current Location:** Silverymoon
+- **Current In-Game Date:** 24th Eleint
+- **Last session in "one" sentence:** On their way back to Mirabar, our heroes visited Grimsa and talked to both Antares Father and the major of the village. They then went to Silverymoon, where Sorion met his daughter Virith. Afterwards, they had some fun in a tavern ;)
 
 ## Fallout
 - **Next Date:** TBD
