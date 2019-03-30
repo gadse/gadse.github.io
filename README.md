@@ -7,12 +7,13 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** 19.03.2019, 18.30
-- **Location:** K4-Bar
+- **Next Session:** At some point in may
+- **Location:** ???
 - **Food:** Yes 
-- **Party's Current Location:** Silverymoon
-- **Current In-Game Date:** 24th Eleint
-- **Last session in "one" sentence:** On their way back to Mirabar, our heroes visited Grimsa and talked to both Antares Father and the major of the village. They then went to Silverymoon, where Sorion met his daughter Virith. Afterwards, they had some fun in a tavern ;)
+- **Party's Current Location:** Neverwinter
+- **Current In-Game Date:** 27th Eleint
+- **Last session in "one" sentence:** Our heroes started their journey to neverwinter in order to find out more about the 
+storm giants. 
 
 ## Fallout
 - **Next Date:** TBD
