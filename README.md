@@ -7,18 +7,13 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** At some point in may
-- **Location:** ???
+- **Next Session:** May 21st, 18:30
+- **Location:** K4-Bar (?)
 - **Food:** Yes 
 - **Party's Current Location:** Neverwinter
 - **Current In-Game Date:** 27th Eleint
 - **Last session in "one" sentence:** Our heroes started their journey to neverwinter in order to find out more about the 
 storm giants. 
-
-## Fallout
-- **Next Date:** TBD
-- **Location:** TBD
-
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
