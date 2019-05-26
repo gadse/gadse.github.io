@@ -7,22 +7,18 @@ This page is intended for summarizing and looking up stuff. For questions like "
 # Regular Campaign Sessions
 
 ## SKT
-- **Next Session:** May 21st, 18:30
-- **Location:** K4-Bar (?)
-- **Food:** Yes 
-- **Party's Current Location:** Neverwinter
+- **Next Session:** May 28th, 18:30
+- **Location:** K5-Bar 
+- **Food:** Arrr (that means "yes")
+- **Party's Current Location:** Neverwinter - Cellar of the Fallen Tower Tavern 
 - **Current In-Game Date:** 27th Eleint
-- **Last session in "one" sentence:** Our heroes started their journey to neverwinter in order to find out more about the 
-storm giants. 
+- **Last session in "one" sentence:** Our heroes descended into the cellar of the fallen tower tavern, where they met Krokus, 
+an adventurer who was imprisoned there a century ago. They also obliterated some of the wizard's pets who were still living there. 
 
 # Current Campaigns
 ## D&D: Storm King's Thunder
-- **Characters**: Antares & Sorion & Tarhun & Vorus
+- **Characters**: Antares & Krokus & Sorion & Tarhun & Vorus
 - **GM**: Nikolas
-
-## Fallout: Eine Sehr Vorlaute Kampagne
-- **Characters**: Jon & Lance & Magnus
-- **GM**: Simone
 
 # One-Shot Wishlist
 - Battletech
