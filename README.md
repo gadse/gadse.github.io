@@ -1,34 +1,42 @@
-# Greetings, Humanoid Life Form!
-You're probably reading this because you've been given this URL by someone you know. Here I'll try to update the most important facts for our RPG group's next session(s). In between regular sessions, we often have "one-shots". That's a short adventure that can be played in one sitting and that's not connected to our regular campaigns. It's a great opportunity for aspiring DMs to test out whether GMing is something fun for them, or for players to get to play a completely different character.
+# Bloggy Stuff
+
+During the coming weeks, I'll to do some smal lunch break blog posts on recurring thoughts and lines of reasoning, such that I can explain them briefly and refer to blog posts instead of repeating them in full detail.
+
+# Role-Playing Games
+
+Greetings, Humanoid Life Form! You're probably reading this because you've been given this URL by someone you know.
+
+Here, I'll try to update the most important facts for our RPG group's next session(s). In between regular sessions, we often have "one-shots". That's a short adventure that can be played in one sitting and that's not connected to our regular campaigns. It's a great opportunity for aspiring DMs to test out whether GMing is something fun for them, or for players to get to play a completely different character.
 
 This page is intended for summarizing and looking up stuff. For questions like "when's our next session again?". Actual communication and definition of dates is done personally or via telegram, e-mail, coffee talks, etc.
 
+## Code of Conduct
+Be nice.
+Be considerate.
+Be dependable.
 
-# Regular Campaign Sessions
+## Regular Campaign Sessions
 
-## SKT
-- **Next Session:** May 28th, 18:30
-- **Location:** K5-Bar 
-- **Food:** Arrr (that means "yes")
-- **Party's Current Location:** Neverwinter - Cellar of the Fallen Tower Tavern 
-- **Current In-Game Date:** 27th Eleint
-- **Last session in "one" sentence:** Our heroes descended into the cellar of the fallen tower tavern, where they met Krokus, 
-an adventurer who was imprisoned there a century ago. They also obliterated some of the wizard's pets who were still living there. 
+### No Campaign at the Moment
+- **Next Session:** January 0th, 1900
+- **Location:** Terra 
+- **Food:** Carbon-Based
+- **Party's Current Location:** Terra 
+- **Current In-Game Date:** 0th Eleint
+- **Last session in "one" sentence:** Our famous adventurers have not awoken yet... 
 
-# Current Campaigns
-## D&D: Storm King's Thunder
-- **Characters**: Antares & Krokus & Sorion & Tarhun & Vorus
-- **GM**: Nikolas
+## Current Campaigns
+### Campaign 1
+- **Characters**: Alice & Bob & Charlie & Dave & Erika
+- **GM**: Frank
 
-# One-Shot Wishlist
+## One-Shot Wishlist
 - Battletech
 - Tabaxi-Party agains the deadly floofballs of death
+- Warhammer 40k
 
-# Code of Conduct
-To be established.
-
-# Finished Campaigns
-## D&D: The Lost Mine of Phandelver
+## Finished Campaigns
+### D&D: The Lost Mine of Phandelver
 - **Characters**: Ara & Corri & Derondor & Jorgrim & Madislak & Sylnan
 - **GM**: Peter
 - **Sessions**: 15-ish
