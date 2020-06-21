@@ -1,4 +1,5 @@
 title: "Lunch Time Thoughts"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 #theme: jekyll-theme-cayman
 future: true
+plugins: [jekyll-include-cache]
