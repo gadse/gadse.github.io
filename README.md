@@ -2,6 +2,8 @@
 
 During the coming weeks, I'll to do some smal lunch break blog posts on recurring thoughts and lines of reasoning, such that I can explain them briefly and refer to blog posts instead of repeating them in full detail.
 
+**TODO**: Maybe I should switch to the project structure recommended by the theme author in order to get a proper blog rolling.
+
 # Role-Playing Games
 
 Greetings, Humanoid Life Form! You're probably reading this because you've been given this URL by someone you know.
