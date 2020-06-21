@@ -2,7 +2,7 @@
 
 During the coming weeks, I'll to do some smal lunch break blog posts on recurring thoughts and lines of reasoning, such that I can explain them briefly and refer to blog posts instead of repeating them in full detail.
 
-**TODO**: Maybe I should switch to the project structure recommended by the theme author in order to get a proper blog rolling.
+A definite **TODO**: switch to the project structure recommended by the theme author in order to get a proper blog rolling. See https://github.com/mmistakes/minimal-mistakes.
 
 # Role-Playing Games
 
