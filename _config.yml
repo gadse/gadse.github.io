@@ -1,3 +1,4 @@
-title: "Loot, Love, and Lard"
-theme: jekyll-theme-cayman
+title: "Lunch Time Thoughts"
+remote_theme: mmistakes/minimal-mistakes
+#theme: jekyll-theme-cayman
 future: true
