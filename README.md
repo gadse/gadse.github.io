@@ -1,47 +1,27 @@
-# Bloggy Stuff
+# Minimal Mistakes remote theme starter
 
-During the coming weeks, I'll to do some smal lunch break blog posts on recurring thoughts and lines of reasoning, such that I can explain them briefly and refer to blog posts instead of repeating them in full detail.
+Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-A definite **TODO**: switch to the project structure recommended by the theme author in order to get a proper blog rolling. See https://github.com/mmistakes/minimal-mistakes.
+Contains basic configuration to get you a site with:
 
-# Role-Playing Games
+- Sample posts.
+- Sample top navigation.
+- Sample author sidebar with social links.
+- Sample footer links.
+- Paginated home page.
+- Archive pages for posts grouped by year, category, and tag.
+- Sample about page.
+- Sample 404 page.
+- Site wide search.
 
-Greetings, Humanoid Life Form! You're probably reading this because you've been given this URL by someone you know.
+Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
-Here, I'll try to update the most important facts for our RPG group's next session(s). In between regular sessions, we often have "one-shots". That's a short adventure that can be played in one sitting and that's not connected to our regular campaigns. It's a great opportunity for aspiring DMs to test out whether GMing is something fun for them, or for players to get to play a completely different character.
+---
 
-This page is intended for summarizing and looking up stuff. For questions like "when's our next session again?". Actual communication and definition of dates is done personally or via telegram, e-mail, coffee talks, etc.
+## Troubleshooting
 
-## Code of Conduct
-Be nice.
-Be considerate.
-Be dependable.
+If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
-## Regular Campaign Sessions
-
-### No Campaign at the Moment
-- **Next Session:** January 0th, 1900
-- **Location:** Terra 
-- **Food:** Carbon-Based
-- **Party's Current Location:** Terra 
-- **Current In-Game Date:** 0th Eleint
-- **Last session in "one" sentence:** Our famous adventurers have not awoken yet... 
-
-## Current Campaigns
-### Campaign 1
-- **Characters**: Alice & Bob & Charlie & Dave & Erika
-- **GM**: Frank
-
-## One-Shot Wishlist
-- Battletech
-- Tabaxi-Party agains the deadly floofballs of death
-- Warhammer 40k
-
-## Finished Campaigns
-### D&D: The Lost Mine of Phandelver
-- **Characters**: Ara & Corri & Derondor & Jorgrim & Madislak & Sylnan
-- **GM**: Peter
-- **Sessions**: 15-ish
-- **Duration**: About 15 Months
-
-Our heroes defeated the Black Spider, saved the Rockseeker brothers, and killed a young Green Dragon along the way. Woop-woop! Oh, and they nearly disabled the forge of spells for good. Well, it would have been out of use for a very long time, anyway. :P
+- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
