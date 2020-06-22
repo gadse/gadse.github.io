@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "gadse"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/cool-shiba.jpg"
   bio    : "Yet another software developer writing about stuff."
   links:
     - label: "Website"
