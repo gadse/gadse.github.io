@@ -1,5 +1,5 @@
 ---
-title: "Three Months of Working from Thome"
+title: "Three Months of Working from Home"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
