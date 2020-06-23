@@ -29,7 +29,7 @@ The last but not least downside I want to mention here is the blur between work 
 
 I'm in the immensely fortunate position to having "trained" for this whole working-from-home situation. During my studies, I quickly got tired of looking for a place in one of the many libraries at my university. That search could take about an hour if I was unlucky, and often enough I only had one hour or two before your my lecture started, my family visited, or the date with my spouse was scheduled. Also, working on work projects in a library didn't "feel" right to me. So I decided to ditch all those libraries -- except for their books of course -- and work/study at home instead, which was only five bike minutes away from campus. I experienced a lot of the aforementioned problems, including having loud and demanding chi-- flatmates. 
 
-In the end, I succeeded in having a productive "office" in my 9 nine-square-meters home and still enjoy my home whenever I used it as my _home_.
+In the end, I succeeded in having a productive "office" in my nine-square-meters home and still enjoy my home whenever I used it as my _home_.
 And here's what made a huge difference for me:
 
 -    Establishing a signal that was to be treated as "Peter is not to be disturbed right now". And no, a lot of my flatmates didn't really get it. Drunk flatmates can be as unreasonable as children.
