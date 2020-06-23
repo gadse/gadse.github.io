@@ -1,5 +1,5 @@
 ---
-title: "Setting Up A Jekyll Blog On Github Pages With A Custom Domain"
+title: "Jekyll + Github Pages + Custom Domain = 💖 Blog 💖"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
