@@ -1,5 +1,5 @@
 ---
-title: "Jekyll + Github Pages + Custom Domain = 💖 Blog 💖"
+title: "Jekyll + Github Pages + Custom Domain = Blog 💖"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
