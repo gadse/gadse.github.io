@@ -7,7 +7,7 @@ tags:
   - work
   - code review
 ---
-I had an interesting conversation at work the other day. A colleague started it by asking for our expectations towards a code review. We do such reviews quite often and try to never roll out production code that hasn't been reviewed at least once. So, naturally, reviewing another developer's code is something we do often. However, we never spoke about a common set of expectations when it comes to reviews.
+I had an interesting conversation at work the other day. A colleague started it by asking for our expectations towards a code review. We do such reviews quite often and try to never roll out production code that hasn't been reviewed at least once. So, naturally, reviewing another developer's code is something we do often. However, we've never spoken about a common set of expectations when it comes to reviews.
 
 During the 30-minutes long and very fruitful discussion, two major positions emerged:
   - Reviews are there to improve the *code*.
