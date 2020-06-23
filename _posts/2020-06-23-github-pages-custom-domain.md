@@ -31,9 +31,9 @@ If you used the theme starter from above, your repo structure should look simila
 
 Basically, all your posts are separate Markdown files in `_posts`, your pages are Markdown files in `_pages`. The later are sub-pages of your blog that can be reached via the headers in the top right corner after adding them to the `_data/navigation.yml` file:
 ![Pages Example](/assets/images/pages-bar.png)
-As you might notice, I added a page called "RPG" to the ones that are set up by default. You can add pages to `_pages`without adding them to the `navigation.yml`, but then your page will only be reachable directly via its URL or via the blog's search.
+As you might notice, I added a page called "RPG" to the ones that are set up by default. You can add pages to `_pages`without adding them to the `navigation.yml`, but then your page will only be reachable directly via its URL. This can be handy if you want only a few select people to know about a page, but don't rely on that as web crawlers are a thing and because that page's Markdown file is still right there in your repo.
 
-I put my images into `assets/images`, but that location is not as important as the previous two directories. Your blog title, bio, theme skins, and more can be configured in the `_config.yml`. At the time of writing, this blog uses the "air" theme. In a completely basic  Jekyll blog, the root/landing page of your blog is defined by the `README.md`, but this Jekyll theme is a teeny tiny bit different.
+I put my images into `assets/images`, but that location is not as important as the previous two directories. Your blog title, bio, theme skins, and more can be configured in the `_config.yml`. At the time of writing, this blog uses the "air" theme. In a completely basic Jekyll blog, the root/landing page of your blog is defined by the `README.md`, but this Jekyll theme is a teeny tiny bit different.
 
 So now you know to put your posts into `_posts` and your pages into `_pages`(and maybe into `navigation.yml`).
 
