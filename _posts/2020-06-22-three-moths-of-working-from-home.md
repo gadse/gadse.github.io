@@ -6,6 +6,7 @@ categories:
 tags:
   - work
   - remote
+  - corona
 ---
 It's been three months now since I started working primarily from home, just like probably a lot of you. Three hands probably suffice to count the days I came into the office since the middle of March. My conclusion after these three months? I'd love to ditch a regular office forever. :D
 
