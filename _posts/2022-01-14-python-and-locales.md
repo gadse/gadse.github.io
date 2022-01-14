@@ -18,8 +18,7 @@ Okay, once you deal with things close to the OS, such as filesystems, signals, e
 
 Right?
 
-<image src="https://media.giphy.com/media/puOukoEvH4uAw/giphy.gif">
-
+<image src="https://media.giphy.com/media/puOukoEvH4uAw/giphy.gif"> Hmmm...
 
 Well, it turns out that things like locale-dependent sorting are also platform-dependent, if you trust your OS. This became apparent when I tried to access the REST interface offered by the BOC Group to do some business stuff. Auth worked fine on Windows, but as soon as I pushed the code to our Linux machines, it didn't. I got a 401, but only for cases where I passed some parameters. So I took a long and hard look at the [documentation](https://developer.boc-group.com/adoxx/en/token-based-authentication) in which you find the following paragraph:
 
