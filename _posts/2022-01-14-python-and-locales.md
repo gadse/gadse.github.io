@@ -12,9 +12,9 @@ facepalm moment at work that I want to preserve for a little while.
 
 # 🐍 Python and Locales
 
-Back when you learned Python, you probalby read that the code is platform-independent. You write your code, and if it works on your machine, it is expected to work on any other machine that has the same libraries installed.
+Back when you learned Python, you probably read that the code is platform-independent. You write your code, and if it works on your machine, it is expected to work on any other machine that has the same libraries installed.
 
-Okay, once you deal with things close to the OS, such as filesystems, signals, et cetera, then it's reasonable to expect you code to not work anymore. I get that. But when you're dealing with highlt non-OS-related stuff like localization, you shouldn't need to worry, right?
+Okay, once you deal with things close to the OS, such as filesystems, signals, et cetera, then it's reasonable to expect you code to not work anymore. I get that. But when you're dealing with highly non-OS-related stuff like localization, you shouldn't need to worry, right?
 
 Right?
 
