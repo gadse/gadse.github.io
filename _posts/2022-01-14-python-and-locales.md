@@ -1,5 +1,5 @@
 ---
-title: "Python and Locales"
+title: "🐍 Python and Locales"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -10,7 +10,7 @@ tags:
 Beware when working with locales! So this post is kinda short and maybe a bit incoherent, but today I had a
 facepalm moment at work that I want to preserve for a little while. 
 
-# Python and Locales
+# 🐍 Python and Locales
 
 Back when you learned Python, you probalby read that the code is platform-independent. You write your code, and if it works on your machine, it is expected to work on any other machine that has the same libraries installed.
 
