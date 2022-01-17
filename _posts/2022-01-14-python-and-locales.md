@@ -10,8 +10,7 @@ tags:
 Beware when working with locales! So this post is kinda short and maybe a bit incoherent, but today I had a
 facepalm moment at work that I want to preserve for a little while. 
 
-# 🐍 Python and Locales
-
+## 🐍 Python, 🔀 Abstractions, and 🖥️ Operating Systems
 Back when you learned Python, you probably read that the code is platform-independent. You write your code, and if it works on your machine, it is expected to work on any other machine that has the same libraries installed.
 
 Okay, once you deal with things close to the OS, such as filesystems, signals, et cetera, then it's reasonable to expect you code to not work anymore. I get that. But when you're dealing with highly non-OS-related stuff like localization, you shouldn't need to worry, right?
@@ -37,8 +36,10 @@ Some debugging then confirmed my suspicion: Locale-specific sorting using the `l
 <image src=https://media.giphy.com/media/l2Jefdsvp5RAePehy/giphy.gif> 
   
 **Locale-specific sorting using the `locale` module is platform-dependent!**
- 
- 
+
+  
+## 👷 Details
+  
 How the hells is something as abstract as this platform-dependent!? Well, whoever made this design decision surely had their reasons - I don't blame them. I was just highly surprised. Also, my gut told me I'm not the first to encounter this, since we aren't that special - despite nearly every organization believing this of itself. So I did a quick search and found [this issue which is in status "open" since 2015 (!)](https://bugs.python.org/issue23195#msg233691). The most recent comment goes like this:
   
   > In my experience, the locale module is error-prone and not reliable, especially if you want portability. It just uses functions provided by the OS. And the locales (LC_CTYPE, LC_MESSAGE, etc.) are process-wide which become a major issue if you want to serve different clients using different locales... Windows supports a different locale per thread if I remember correctly. It would be more reliable to use a good library like ICU.
