@@ -1,5 +1,5 @@
 ---
-title: "Hot To Leave A Team (Gracefully)"
+title: "How To Leave A Team (Gracefully)"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
